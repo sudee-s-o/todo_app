@@ -1,1 +1,1 @@
-react ve tailwind kullanarak "to do list" uygulaması yaptım.
+react ve tailwindcss kullanarak "to do list" uygulaması yaptım.
